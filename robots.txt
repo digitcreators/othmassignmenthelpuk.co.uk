@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /register
+Disallow: /login
+Disallow: /password/reset
+Disallow: /privacy-policy
+Disallow: /terms-and-condition
+Allow: /
+
+Sitemap: https://othmassignmenthelpuk.co.uk/sitemap.xml
